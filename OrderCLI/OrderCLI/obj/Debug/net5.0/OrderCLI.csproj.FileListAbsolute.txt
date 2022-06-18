@@ -1,0 +1,16 @@
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\bin\Debug\net5.0\OrderCLI.exe
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\bin\Debug\net5.0\OrderCLI.deps.json
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\bin\Debug\net5.0\OrderCLI.runtimeconfig.json
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\bin\Debug\net5.0\OrderCLI.runtimeconfig.dev.json
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\bin\Debug\net5.0\OrderCLI.dll
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\bin\Debug\net5.0\OrderCLI.pdb
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.csproj.AssemblyReference.cache
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.AssemblyInfoInputs.cache
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.AssemblyInfo.cs
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.csproj.CoreCompileInputs.cache
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.dll
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\refint\OrderCLI.dll
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.pdb
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\OrderCLI.genruntimeconfig.cache
+C:\Users\Naakgash\Desktop\Pratikler\OrderCLI\OrderCLI\obj\Debug\net5.0\ref\OrderCLI.dll
