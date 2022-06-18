@@ -45,7 +45,7 @@ namespace OrderCLI
             get { return _gsmNumber; }
             set // Checking the entered gsm number
             {
-                if (value.Length != 10 || !IsAllDigit(value) || !(value[0] == 0))
+                if (value.Length != 10 || !IsAllDigit(value))
                     throw new Exception();
                 _gsmNumber = value;
             }
